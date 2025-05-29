@@ -101,7 +101,7 @@ Programs include:
 # Credited Authors
 Derrick Lin, Angela Chen and James Koppel
 
-# Hierarchical Multi-Agent Agentic Code Correction Ecosystem (HMACCE)
+# Our Revolutionary Solution: Hierarchical Multi-Agent Agentic Code Correction Ecosystem (HMACCE)
 
 ## Project Overview
 This system implements a hierarchical multi-agent agentic architecture for automated code correction on the QuixBugs benchmark. It leverages LLMs (Gemini 1.5 Flash), specialized agents, and advanced validation to detect and repair single-line defects in Python programs, with human-in-the-loop and advanced visualization.
