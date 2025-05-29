@@ -138,6 +138,7 @@ This system implements a hierarchical multi-agent agentic architecture for autom
 - `streamlit_dashboard/` - Visualization app
 - `python_programs/` - Buggy programs
 - `correct_python_programs/` - Reference correct programs
+- `fixed_programs/` - Fixed defective programs
 - `python_testcases/` - Pytest testcases
 - `json_testcases/` - JSON testcases
 
