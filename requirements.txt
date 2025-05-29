@@ -1,0 +1,11 @@
+streamlit
+openai
+langchain
+autogen
+pytest
+pytest-timeout
+python-dotenv
+requests
+httpx
+pydantic
+rich 
