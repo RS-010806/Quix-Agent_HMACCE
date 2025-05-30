@@ -120,7 +120,7 @@ This system implements a hierarchical multi-agent agentic architecture for autom
    ```
 3. Set your Gemini API key in a `.env` file:
    ```env
-   GEMINI_API_KEY=AIzaSyDhgxL6VJdDf66sqJI-LccVbquXuec-5x0
+   GEMINI_API_KEY=<your-key>
    ```
 
 ## Usage
