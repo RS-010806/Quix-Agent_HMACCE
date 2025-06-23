@@ -143,5 +143,5 @@ This system implements a hierarchical multi-agent agentic architecture for autom
 - `json_testcases/` - JSON testcases
 
 ## Documentation
-See the full documentation in the submission folder for methodology, comparative study, and results:
+See the full documentation in the following google doc for thorough methodology, comparative study, and results:
 https://docs.google.com/document/d/1prqmmfoWYDW19FoWb6vQ3dAQfyMliLIGMYdT14Rurkc/edit?usp=sharing
